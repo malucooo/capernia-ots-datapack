@@ -653,7 +653,7 @@
 
  	<!-- Ammunition -->
 	<distance id="2545" script="poison_arrow.lua"/>
-	<distance id="2546" script="explosive_arrow.lua"/>
+	<distance id="2546" action="removecount" script="burst_arrow.lua" />	<!-- Burst Arrow -->
 	<distance id="2547" unproperly="1" level="55" function="default"/>	<!-- Power Bolt -->
 	<distance id="3965" unproperly="1" level="20" function="default"/>	<!-- Hunting Spear -->
 	<distance id="6529" unproperly="1" level="110" function="default"/>	<!-- Infernal Bolt -->
