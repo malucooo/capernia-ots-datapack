@@ -130,6 +130,7 @@ Enhancements:
   - removed empty `spaws`
   - minor `talkactions` fix
   - removed fixed location `Rashid`, now it should work right, at random locations
+  - minor solution to fill `players_online` table
 
 ## 0.0.2 (08/05/2016)
 
