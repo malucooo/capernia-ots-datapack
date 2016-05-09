@@ -15,7 +15,7 @@ expFromPlayersLevelRange = 200
 
 -- Connection Config
 -- NOTE: maxPlayers set to 0 means no limit
-ip = "167.114.111.25"
+ip = "127.0.0.1"
 bindOnlyGlobalAddress = false
 loginProtocolPort = 7171
 gameProtocolPort = 7172
@@ -24,7 +24,7 @@ maxPlayers = 1000
 motd = "Acessem nosso site Sejam bem vindos"
 onePlayerOnlinePerAccount = true
 allowClones = false
-serverName = "TEST IDM GLOBAL"
+serverName = "TESTSERVER"
 statusTimeout = 5000
 replaceKickOnLogin = true
 maxPacketsPerSecond = 25
@@ -61,8 +61,8 @@ maxMarketOffersAtATimePerPlayer = 100
 -- MySQL
 mysqlHost = "127.0.0.1"
 mysqlUser = "root"
-mysqlPass = "az88231015"
-mysqlDatabase = "servidor"
+mysqlPass = ""
+mysqlDatabase = "ot"
 mysqlPort = 3306
 mysqlSock = ""
 passwordType = "sha1"

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Seacrest Serpent" nameDescription="Seacrest serpent" race="blood" experience="2300" speed="350" manacost="0">
-	<health now="1950" max="1950"/>
-	<look type="675" corpse="8307"/>
+<monster name="Seacrest Serpent" nameDescription="Seacrest serpent" race="blood" experience="2600" speed="350" manacost="0">
+	<health now="3000" max="3000"/>
+	<look type="675" corpse="24262"/>
 	<targetchange interval="4000" chance="10"/>
 	<flags>
 		<flag summonable="0"/>
