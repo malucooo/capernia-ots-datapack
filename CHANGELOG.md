@@ -30,11 +30,34 @@ Additions:
   - added missing NPC `Demonguard`
   - added missing NPC `Marsh Stalker`
   - added missing NPC `Gnomaticus`
-  - added missing NPC `Marsh Stalker`
-  - added missing NPC `Marsh Stalker`
-  - added missing NPC `Marsh Stalker`
-  - added missing NPC `Marsh Stalker`
-  - added missing NPC `Marsh Stalker`
+  - added missing NPC `Bolfona`
+  - added missing NPC `Drog`
+  - added missing NPC `A Sleeping Dragon`
+  - added missing NPC `A Confused Frog`
+  - added missing NPC `Gnomeral`
+  - added missing NPC `Elathriel`
+  - added missing NPC `Harog`
+  - added missing NPC `Weaponmaster`
+  - added missing NPC `Yawno`
+  - added missing NPC `Nienna`
+  - added missing NPC `Alissa`
+  - added missing NPC `Timur`
+  - added missing NPC `Tanaro`
+  - added missing NPC `Satsu`
+  - added missing NPC `Elgar`
+  - added missing NPC `Elgar`
+  - added missing NPC `Elgar`
+  - added missing NPC `Elgar`
+  - added missing NPC `Elgar`
+  - added missing NPC `Elgar`
+  - added missing NPC `Elgar`
+  - added missing NPC `Elgar`
+  - added missing NPC `Elgar`
+  - added missing NPC `Elgar`
+  - added missing NPC `Elgar`
+  - added missing NPC `Elgar`
+  - added missing NPC `Elgar`
+  - added missing NPC `Elgar`
   - added missing monster `Doctor Perhaps` spawns
   - added missing monster `Furious Troll` spawns
   - added missing monster `Troll Legionnaire` spawns
@@ -52,8 +75,16 @@ Additions:
   - added missing monster `Emerald Damselfly` spawn
   - added missing monster `Deathstrike` spawn
   - added missing monster `Doctor Perhaps` spawn
-  - added missing monster `Doctor Perhaps` spawn
-  - added missing monster `Doctor Perhaps` spawn
+  - added missing monster `Young Troll` spawn
+  - added missing monster `Hydra` spawn
+  - added missing monster `Hydra` spawn
+  - added missing monster `Hydra` spawn
+  - added missing monster `Hydra` spawn
+  - added missing monster `Hydra` spawn
+  - added missing monster `Hydra` spawn
+  - added missing monster `Hydra` spawn
+  - added missing monster `Hydra` spawn
+  - added missing monster `Hydra` spawn
 
 Bugfixes:
   - fix all `Yalahari Monsters` not showing on Yalahar Halls
