@@ -1,4 +1,4 @@
-# Capernia Datapack: making the ultimate datapack for OTS (Open Tibia Server)
+# Capernia Datapack: making the ultimate datapack for OTS (Open Tibia Server)[![Build Status](https://img.shields.io/badge/build-buggy-yellow.svg)]()
 
 
 Capernia Datapack is a project born from the necessity of a serious OTS files.
@@ -20,6 +20,8 @@ Main Conceps
 
 * Analyse and scrap third party datapacks for new userful content
 * Update the scripts making them compatible with latest version of Forgotten Server
+* Unify all existing datapacks on Capernia datapack
+* Help the community
 
 
 
@@ -41,28 +43,38 @@ On **Windows**, just extract all contents, change variables on **config.lua** to
 	mysqlPass = "az88231015"
 	mysqlDatabase = "servidor"
 	```
+ - Import `base.sql`to your mysql database:
 
+    > capernia-ots-datapack\res\data.sql
+    
  - Have fun!
 
 
 Github Limitations
 ===========
 
-Because the ''size'' limitations of **Github**, the following file had to be compressed.
+Because of the `size` limits, the following file had to be compressed.
 
     capernia-ots-datapack\data\world\global.rar
 
+Map Changes
+===========
 
+For obvious reasons we have a diferent protocol for changing the map.
+
+ - Open a issue, using the `Issues` tab
+ - Explain the changes needed and if possible, post an image
 
 Datapacks Merges
 =============
 
 This list shows the status of third party datapacks **migrations**:
 
-| Name | Last Release | Capernia Status | Location |
-| --- | --- | --- | --- |
-| Mitisuig | 13/04/2016 | ![Debug!](https://img.shields.io/badge/debug-20%25-orange.svg) | [TK](http://www.tibiaking.com/forum/topic/36403-global-full-tibiaking-10911092-tfs-12-full-oramond-cast-system-lions-rock-reward-system-equip-hotkey-new-items-news-monster-new-areas-krailos-asura-medusa-town-etc-eventos-sem-missao-v20/) |
-| Absolute | 03/05/2016 | ![Aware of this but nothing done yet!](https://img.shields.io/badge/aware-0%25-red.svg) | [TK](http://www.tibiaking.com/forum/topic/67075-global-full-download-1090-tfs-12ferumbras-questkrailosnew-arenacastrewardeventscasino/) |
+| Name | Author Release | Last Capernia Merge | Capernia Merge Status | Location | Invitation |
+| --- | --- | --- | --- | --- | --- |
+| Mitisuig | 13/04/2016 | 13/04/2016 | ![Debug!](https://img.shields.io/badge/debug-20%25-orange.svg) | [TK](http://www.tibiaking.com/forum/topic/36403-global-full-tibiaking-10911092-tfs-12-full-oramond-cast-system-lions-rock-reward-system-equip-hotkey-new-items-news-monster-new-areas-krailos-asura-medusa-town-etc-eventos-sem-missao-v20/) | ![](https://img.shields.io/badge/invitation-pending-red.svg) |
+| Absolute | 03/05/2016 | - | ![Aware of this but nothing done yet!](https://img.shields.io/badge/aware-0%25-red.svg) | [TK](http://www.tibiaking.com/forum/topic/67075-global-full-download-1090-tfs-12ferumbras-questkrailosnew-arenacastrewardeventscasino/) | ![](https://img.shields.io/badge/invitation-pending-red.svg) |
+| Lofiv | 02/03/2016 | - | ![Aware of this but nothing done yet!](https://img.shields.io/badge/aware-0%25-red.svg) | [OTLand](https://otland.net/threads/10-90-globalot-full-new-www-new-layout-krailos-tfs-1-2.241083/) | ![](https://img.shields.io/badge/invitation-pending-red.svg) |
 
 
 ----------
