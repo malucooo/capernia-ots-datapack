@@ -45,19 +45,60 @@ Additions:
   - added missing NPC `Tanaro`
   - added missing NPC `Satsu`
   - added missing NPC `Elgar`
-  - added missing NPC `Elgar`
-  - added missing NPC `Elgar`
-  - added missing NPC `Elgar`
-  - added missing NPC `Elgar`
-  - added missing NPC `Elgar`
-  - added missing NPC `Elgar`
-  - added missing NPC `Elgar`
-  - added missing NPC `Elgar`
-  - added missing NPC `Elgar`
-  - added missing NPC `Elgar`
-  - added missing NPC `Elgar`
-  - added missing NPC `Elgar`
-  - added missing NPC `Elgar`
+  - added missing NPC `Sharon`
+  - added missing NPC `Eclesius`
+  - added missing NPC `Muriel`
+  - added missing NPC `Pig`
+  - added missing NPC `Billy`
+  - added missing NPC `Neill`
+  - added missing NPC `Willem`
+  - added missing NPC `Shanoya`
+  - added missing NPC `Ula`
+  - added missing NPC `Tylius`
+  - added missing NPC `Sorcerer Estrella`
+  - added missing NPC `Knight Hykrion`
+  - added missing NPC `Paladin Narai`
+  - added missing NPC `Raffael`
+  - added missing NPC `Melfar`
+  - added missing NPC `Costello`
+  - added missing NPC `Mr Brandon`
+  - added missing NPC `Flora`
+  - added missing NPC `Sane Mage`
+  - added missing NPC `Daniel Steelsoul`
+  - added missing NPC `Cruleo`
+  - added missing NPC `Edron Guardsman`
+  - added missing NPC `Jack`
+  - added missing NPC `Benevola`
+  - added missing NPC `Lothar`
+  - added missing NPC `Arkarra`
+  - added missing NPC `Lavirias`
+  - added missing NPC `MarisMistrock`
+  - added missing NPC `Mooh'Tah Master`
+  - added missing NPC `Curos`
+  - added missing NPC `Armenius`
+  - added missing NPC `Orockle`
+  - added missing NPC `Orc Berserker`
+  - added missing NPC `Gate Guardian`
+  - added missing NPC `One-Eyed Joe`
+  - added missing NPC `Hairycles`
+  - added missing NPC `Jean Pierre`
+  - added missing NPC `Captain Tiberius`
+  - added missing NPC `Lungelen`
+  - added missing NPC `Zerbrus`
+  - added missing NPC `Dallheim`
+  - added missing NPC `Dustrunner`
+  - added missing NPC `Captain Kurt`
+  - added missing NPC `Eliza`
+  - added missing NPC `Tereban`
+  - added missing NPC `Asralius`
+  - added missing NPC `Sigurd`
+  - added missing NPC `Etzel`
+  - added missing NPC `Nicholas`
+  - added missing NPC `A Ghostly Woman Ghostland`
+  - added missing NPC `Sister Of Jack`
+  - added missing NPC `Bunny Bonecrusher`
+  - added missing NPC `Lazaran`
+  - added missing NPC `Sinclair`
   - added missing monster `Doctor Perhaps` spawns
   - added missing monster `Furious Troll` spawns
   - added missing monster `Troll Legionnaire` spawns
@@ -77,23 +118,18 @@ Additions:
   - added missing monster `Doctor Perhaps` spawn
   - added missing monster `Young Troll` spawn
   - added missing monster `Hydra` spawn
-  - added missing monster `Hydra` spawn
-  - added missing monster `Hydra` spawn
-  - added missing monster `Hydra` spawn
-  - added missing monster `Hydra` spawn
-  - added missing monster `Hydra` spawn
-  - added missing monster `Hydra` spawn
-  - added missing monster `Hydra` spawn
-  - added missing monster `Hydra` spawn
+  - added missing monster `Ladybug` spawn
 
 Bugfixes:
   - fix all `Yalahari Monsters` not showing on Yalahar Halls
   - fix thais `trainers portal`
   - fix thais `trainers area` floor
+  - fix missing `Orshabaal.xml`,`rift scythe.xml`,`rift lord.xml`,`rift brood.xml`,`rift phantom.xml`,`seacrest serpent.xml`,`Ferumbras Soul Splinter.xml`,`Ferumbras Mortal Shell.xml`,`Destabilized Ferumbras.xml`
   
 Enhancements:
   - removed empty `spaws`
-  - 
+  - minor `talkactions` fix
+  - removed fixed location `Rashid`, now it should work right, at random locations
 
 ## 0.0.2 (08/05/2016)
 
