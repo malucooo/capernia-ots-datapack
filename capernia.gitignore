@@ -1,2 +1,5 @@
 # Ignore otbm files due size limits
 *.otbm
+
+# Ignore ba,kup files
+*.bak
