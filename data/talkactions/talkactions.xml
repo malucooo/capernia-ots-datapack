@@ -55,7 +55,7 @@
 	<talkaction words="!kills" script="kills.lua" />
 	<talkaction words="!online" script="online.lua" />
 	<talkaction words="!serverinfo" script="serverinfo.lua" />
-	<talkaction words="!addon" script="addon.lua" />
+	<talkaction words="!addon" separator=" " script="addon.lua" />
 
 	<!-- Cast System -->
 	<talkaction words="!cast on" separator=" " script="start_cast.lua" />
