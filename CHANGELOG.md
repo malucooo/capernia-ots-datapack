@@ -1,3 +1,13 @@
+## 0.0.6 (12/05/2016)
+
+Bugfixes:
+  - fix errors on NPC `Chemar`
+  - fix incorrect textures on `Darashia` -9 level, at rotworms cave
+  
+Enhancements:
+  - NPC Chemar now repect `The New Frontier` quest in order to take you to `Farmine`
+
+
 ## 0.0.5 (11/05/2016)
 
 Bugfixes:
