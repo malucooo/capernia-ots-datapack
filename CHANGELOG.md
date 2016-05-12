@@ -1,3 +1,12 @@
+## 0.0.5 (11/05/2016)
+
+Bugfixes:
+  - fix melee weapons not being able to cut webs on the `Cruzader Helmet Quest`
+  
+Enhancements:
+  - melee weapons now break or destroy some itens
+  - spider eggs should work properly now
+
 ## 0.0.4 (10/05/2016)
 
 Additions:
