@@ -1,3 +1,12 @@
+## 0.0.7 (13/05/2016)
+
+Bugfixes:
+  - fix a bug on `Ferumbras' Ascendant Quest` as requested [here #13](https://github.com/gordonbay/capernia-ots-datapack/issues/13)
+
+Enhancements:
+  - `Reward Chest` has been removed from Thais due violations of Capernia rules about custom content
+
+
 ## 0.0.6 (12/05/2016)
 
 Bugfixes:
