@@ -1,3 +1,8 @@
+## 0.0.8 (14/05/2016)
+
+Enhancements:
+  - added `10.92` new itens and potions
+
 ## 0.0.7 (13/05/2016)
 
 Bugfixes:
