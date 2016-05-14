@@ -77,4 +77,7 @@ This list shows the status of third party datapacks **migrations**:
 | Lofiv | 02/03/2016 | - | ![Aware of this but nothing done yet!](https://img.shields.io/badge/aware-0%25-red.svg) | [OTLand](https://otland.net/threads/10-90-globalot-full-new-www-new-layout-krailos-tfs-1-2.241083/) | ![](https://img.shields.io/badge/invitation-pending-red.svg) |
 
 
-----------
+Important Wiki Pages
+=============
+
+- [capernia-ots-datapack/wiki/Issues](https://github.com/gordonbay/capernia-ots-datapack/wiki/Issues) - Read this before report any issue
