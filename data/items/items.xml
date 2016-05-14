@@ -26468,7 +26468,6 @@
 	</item>
 	<item fromid="20081" toid="20082" article="an" name="oriel window" />
 	<item fromid="20083" toid="20086" article="a" name="roof" />
-
 	<item id="20089" article="a" name="bola">
 		<attribute key="weight" value="500" />
 	</item>
@@ -33014,7 +33013,48 @@
 		<attribute key="decayTo" value="24817" />
 		<attribute key="duration" value="15" />
 	</item>
+	<item id="26029" article="a" name="ultimate mana potion">
+		<attribute key="weight" value="310" />
+		<attribute key="description" value="This potion can only be consumed by sorcerers and druids of level 130 or higher." />
+	</item>
+	<item id="26030" article="a" name="ultimate spirit potion">
+		<attribute key="weight" value="310" />
+		<attribute key="description" value="This potion can only be consumed by sorcerers and druids of level 130 or higher." />
+	</item>
+	<item id="26031" article="a" name="supreme health potion">
+		<attribute key="weight" value="310" />
+		<attribute key="description" value="This potion can only be consumed by knights of level 200 or higher." />
+	</item>
 	<item id="20994" article="a" name="ramp" />
+	<item id="26052" name="shop inbox" />
+	<item id="26054" name="decoration kit" />	
+	<item fromid="26055" toid ="26056" name="mailbox" />
+	<item fromid="26057" toid ="26058" name="ornate mailbox" />
+	<item fromid="26059" toid ="26062" name="magnificent chair" />
+	<item fromid="26063" toid ="26066" name="ferocious chair" />
+	<item fromid="26067" toid ="26070" name="ferocious table" />
+	<item fromid="26073" toid ="26074" name="magnificent table" />
+	<item fromid="26075" toid ="26076" name="magnificent cabinet" />
+	<item fromid="26077" toid ="26078" name="ferocious cabinet" />
+	<item fromid="26079" toid ="26082" name="ferocious trunk" />
+	<item fromid="26083" toid ="26096" name="magnificent trunk" />
+	<item id="26087" name="rolled-up yalaharian carpet" />
+	<item id="26088" name="rolled-up white fur carpet" />
+	<item id="26089" name="rolled-up bamboo mat" />
+	<item fromid="26090" toid ="26093" name="Predator Lamp" />
+	<item fromid="26094" toid ="26097" name="Protectress Lamp" />
+	<item fromid="26098" toid ="26099" name="Baby Dragon" />
+	<item fromid="26107" toid ="26108" name="Hamster in a Wheel" />
+	<item id="26104" name="Lordly Tapestry" />
+	<item id="26105" name="Menacing Tapestry" />
+	<item id="26106" name="All-Seeing Tapestry" />
+	<item fromid="26107" toid ="26108" name="Cat in a Basket" />
+	<item id="26109" name="Yalaharian Carpet" />
+	<item id="26110" name="white Fur Carpet" />
+	<item id="26111" name="bamboo mat" />
+	
+	
+	
 	<item id="30001" name="water" />
 	<item id="30002" name="blood" />
 	<item id="30003" name="beer" />
