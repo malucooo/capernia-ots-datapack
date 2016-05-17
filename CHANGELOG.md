@@ -1,3 +1,8 @@
+## 0.1.0 (17/05/2016)
+
+Bugfixes:
+  - fix missing `monsters spells`
+
 ## 0.0.9 (17/05/2016)
 
 Bugfixes:
