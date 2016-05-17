@@ -11,7 +11,7 @@ Its goal is to make sure all new Tibia resources be unified and ready for use on
 Capernia Datapack is made using **LUA scripting** language with some **mysql arguments**.
 
 ![Latest version!](https://img.shields.io/badge/tfs%20version-1.2-brightgreen.svg)
-![There are newer versions!](https://img.shields.io/badge/client%20version-10.91-green.svg)
+![There are newer versions!](https://img.shields.io/badge/client%20version-10.93-green.svg)
 [![Gitter](https://badges.gitter.im/gordonbay/capernia-ots-datapack.svg)](https://gitter.im/gordonbay/capernia-ots-datapack?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 
