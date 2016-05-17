@@ -1,3 +1,10 @@
+## 0.0.9 (17/05/2016)
+
+Bugfixes:
+  - fix wrong monsters `corpses` as requested [here #17](https://github.com/gordonbay/capernia-ots-datapack/issues/17)
+  - fix missing `Yalahar` gates and `Captain Max` not checking mission status in order to teleport a character. As described [here #16](https://github.com/gordonbay/capernia-ots-datapack/issues/16)
+  - fix Edron's `Bog Raider's` missing spaws and wrong map textures as requested [here #14](https://github.com/gordonbay/capernia-ots-datapack/issues/14)
+
 ## 0.0.8 (14/05/2016)
 
 Enhancements:
