@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Metal Gargoyle" nameDescription="a metal gargoyle" race="blood" experience="1400" speed="200" manacost="490">
 	<health now="2100" max="2100"/>
-	<look type="601" corpse="23340"/>
+	<look type="601" corpse="23347"/>
 	<targetchange interval="4000" chance="10"/>
 	<flags>
         <flag summonable="0"/>
