@@ -70,9 +70,9 @@ Datapacks Merges
 
 This list shows the status of third party datapacks **migrations**:
 
-| Name | Author Release | Last Capernia Merge | Capernia Merge Status | Location | Join Capernia? |
+| Name | Last Author Release | Last Capernia Merge | Capernia Merge Status | Location | Report |
 | --- | --- | --- | --- | --- | --- |
-| Mitisuig | 13/04/2016 | 13/04/2016 | ![Debug!](https://img.shields.io/badge/debug-20%25-orange.svg) | [TK](http://www.tibiaking.com/forum/topic/36403-global-full-tibiaking-10911092-tfs-12-full-oramond-cast-system-lions-rock-reward-system-equip-hotkey-new-items-news-monster-new-areas-krailos-asura-medusa-town-etc-eventos-sem-missao-v20/) | ![](https://img.shields.io/badge/invitation-pending-red.svg) |
+| Mitisuig | 13/04/2016 | 13/04/2016 | ![Complete!](https://img.shields.io/badge/status-complete-brightgreen.svg) | [TK](http://www.tibiaking.com/forum/topic/36403-global-full-tibiaking-10911092-tfs-12-full-oramond-cast-system-lions-rock-reward-system-equip-hotkey-new-items-news-monster-new-areas-krailos-asura-medusa-town-etc-eventos-sem-missao-v20/) | [Read Report](https://github.com/gordonbay/capernia-ots-datapack/issues/18) |
 | Absolute | 03/05/2016 | - | ![Aware of this but nothing done yet!](https://img.shields.io/badge/aware-0%25-red.svg) | [TK](http://www.tibiaking.com/forum/topic/67075-global-full-download-1090-tfs-12ferumbras-questkrailosnew-arenacastrewardeventscasino/) | ![](https://img.shields.io/badge/invitation-pending-red.svg) |
 | Lofiv | 02/03/2016 | - | ![Aware of this but nothing done yet!](https://img.shields.io/badge/aware-0%25-red.svg) | [OTLand](https://otland.net/threads/10-90-globalot-full-new-www-new-layout-krailos-tfs-1-2.241083/) | ![](https://img.shields.io/badge/invitation-pending-red.svg) |
 
