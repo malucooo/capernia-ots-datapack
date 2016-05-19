@@ -1,4 +1,4 @@
-local presents = {
+local config = {
 	[6570] = { -- bluePresent
 		{2687, 10}, {6394, 3}, 6280, 6574, 6578, 6575, 6577, 6569, 6576, 6572, 2114
 	},
@@ -17,15 +17,10 @@ function onUse(player, item, fromPosition, target, toPosition, isHotkey)
 	end
 
 	local count = 1
-	local targetItem = presents[item.itemid]
-	if not targetItem then
-		return true
-	end
-
-	local gift = targetItem[math.random(#targetItem)]
+	local gift = present[math.random(#present)]
 	if type(gift) == "table" then
-		gift = gift[1]
 		count = gift[2]
+		gift = gift[1]
 	end
 
 	player:addItem(gift, count)
