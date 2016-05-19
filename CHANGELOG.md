@@ -1,3 +1,8 @@
+## 0.1.1 (18/05/2016)
+
+Enhancements:
+  - fix wrong `spells` formulas
+
 ## 0.1.0 (17/05/2016)
 
 Bugfixes:
