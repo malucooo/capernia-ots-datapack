@@ -1,3 +1,8 @@
+## 0.1.3 (20/05/2016)
+
+Bugfixes:
+  - fix `The New Frontier Quest` teleport not checking player storage as requested [here #21](https://github.com/gordonbay/capernia-ots-datapack/issues/21) 
+
 ## 0.1.2 (19/05/2016)
 
 Bugfixes:
