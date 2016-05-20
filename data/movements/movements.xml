@@ -156,6 +156,7 @@
 	<movevent event="StepIn" actionid="8007" script="quests/the new frontier/trap.lua" />
 	<movevent event="StepIn" actionid="12135" script="quests/the new frontier/minotaurBoss.lua" />
 	<movevent event="StepIn" actionid="12138" script="quests/the new frontier/jailExit.lua" />
+	<movevent event="StepIn" actionid="12139" script="quests/the new frontier/zaosteppe.lua" />
 
 	<!--- Unnatural Selection -->
 	<movevent event="StepIn" actionid="12332" script="quests/unnatural selection/Mission2AllAroundtheWorld.lua" />
