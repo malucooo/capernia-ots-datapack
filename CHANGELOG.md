@@ -1,7 +1,12 @@
+## 0.1.2 (19/05/2016)
+
+Bugfixes:
+  - fix `surprise bags` errors as requested [here #20](https://github.com/gordonbay/capernia-ots-datapack/issues/20) 
+
 ## 0.1.1 (18/05/2016)
 
 Enhancements:
-  - fix wrong `spells` formulas
+  - fix wrong `spells` formulas as requested [here #19](https://github.com/gordonbay/capernia-ots-datapack/issues/19) 
 
 ## 0.1.0 (17/05/2016)
 
