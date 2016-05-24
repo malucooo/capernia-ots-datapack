@@ -1,3 +1,10 @@
+## 0.1.4 (23/05/2016)
+
+Enhancements:
+  - fix some `map` glitches
+  - some changes on `Killing in the Name of...` necromancer task as partially requested [here #22](https://github.com/gordonbay/capernia-ots-datapack/issues/22) 
+  - changed the compiled executables, now it comes both x64 and x86 versions and with respective dll
+
 ## 0.1.3 (20/05/2016)
 
 Bugfixes:
