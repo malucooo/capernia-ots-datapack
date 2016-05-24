@@ -74,9 +74,7 @@ tasks =
 	[46] = {killsRequired = 500, raceName = "Blue Djinns or Marids", level = {1, 9999}, storage = {12501, 1}, premium = true, creatures = {"blue djinn", "marid"}, rewards = {{type = "exp", value = {10000}},{type = "money", value = {5000}},{type = "storage", value = {35029, 1}}}},
 	[47] = {killsRequired = 3000, raceName = "Pirates", level = {1, 9999}, storage = {12600, 1}, premium = true, creatures = {"pirate ghost", "pirate marauder", "pirate cutthroad", "pirate buccaneer", "pirate corsair", "pirate skeleton"}, rewards = {{type = "exp", value = {10000}},{type = "money", value = {5000}},{type = "storage", value = {35030, 1}}}},
 	[48] = {killsRequired = 3000, raceName = "Pirates second task", level = {1, 9999}, storage = {REPEATSTORAGE_BASE + 47, 3}, norepeatable = true, premium = true, creatures = {"pirate ghost", "pirate marauder", "pirate cutthroad", "pirate buccaneer", "pirate corsair", "pirate skeleton"}, rewards = {{type = "exp", value = {10000}},{type = "money", value = {5000}},{type = "storage", value = {35031, 1}}}},
-	[49] = {killsRequired = 5000, raceName = "Minotaurs", level = {1, 40}, storage = {12700, 1}, norepeatable = true, premium = false, creatures = {"minotaur", "minotaur mage", "minotaur archer"}, rewards = {{type = "storage", value = {35032, 1}}}},
-	[50] = {killsRequired = 4000, raceName = "Necromancers and Priestess", level = {60, 9999}, norepeatable = true, premium = true, creatures = {"necromancer", "priestess"}, rewards = {{type = "storage", value = {35033, 1}},{type = "storage", value = {12800, 1}}}},
-	[49] = {killsRequired = 1000, name = "Necromancers and Priestess second task", raceName = "Necromancers and Priestess", level = {60, 9999}, storage = {12800, 1}, norepeatable = true, premium = true, creatures = {"necromancer", "priestess"}, rewards = {{type = "exp", value = {40000}},{type = "storage", value = {35033, 1}}}},
+	[49] = {killsRequired = 5000, raceName = "Minotaurs", level = {1, 40}, storage = {12700, 1}, norepeatable = true, premium = false, creatures = {"minotaur", "minotaur mage", "minotaur archer"}, rewards = {{type = "storage", value = {35032, 1}}}},	
 }
 
 tasksByPlayer = 3

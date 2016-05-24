@@ -188,6 +188,7 @@
 	<item id="836" name="sand" />
 	<item fromid="873" toid="878" article="a" name="mountain" />
 	<item fromid="891" toid="902" name="rocks" />
+	<item fromid="903" toid="912" article="a" name="stone wall" />
 	<item fromid="903" toid="913" article="a" name="stone wall" />
 	<item fromid="914" toid="917" article="a" name="stone archway" />
 	<item fromid="918" toid="919" article="a" name="mountain" />
