@@ -1,3 +1,8 @@
+## 0.1.5 (25/05/2016)
+
+Bugfixes:
+  - fix `spellbook` errors as requested [here #25](https://github.com/gordonbay/capernia-ots-datapack/issues/25) 
+
 ## 0.1.4 (23/05/2016)
 
 Enhancements:
