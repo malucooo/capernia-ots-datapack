@@ -1,3 +1,8 @@
+## 0.1.6 (27/05/2016)
+
+Bugfixes:
+  - fix `The Explorer Society Quest` errors as requested [here #27](https://github.com/gordonbay/capernia-ots-datapack/issues/27) 
+
 ## 0.1.5 (25/05/2016)
 
 Bugfixes:
