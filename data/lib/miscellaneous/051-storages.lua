@@ -8,14 +8,15 @@ Storage = {
 		AmuletStatus = 49
 	},
 	ExplorerSociety = {
-		QuestLine = 90,
+		QuestLine = 90,		
 		bansheeDoor = 91,
 		bonelordsDoor = 92,
 		calassaDoor = 93,
 		edronDoor = 94,
 		elvenDoor = 95,
 		orcDoor = 96,
-		urnDoor = 97
+		urnDoor = 97,
+		brooch = 9898
 	},
 	TravellingTrader = {
 		Mission01 = 101,
@@ -1001,5 +1002,6 @@ GlobalStorage = {
 		AshmunrahSwitchesGlobalStorage = 202
 	},
 	NaginataStone = 50058,
+	CrusaderHelmet = 9191,
 	SwordOfFury = 5635
 }

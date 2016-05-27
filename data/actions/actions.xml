@@ -286,6 +286,7 @@
 	<action itemid="5938" script="quests/druid outfit/waterskin.lua" />
 
 	<!-- Explorer Society Quest -->
+	<action uniqueid="9898" script="quests/system.lua" /><!-- Family Brooch -->
 	<action itemid="4869" script="quests/explorer society/botanist.lua" />
 	<action itemid="4865" script="quests/explorer society/butterfly.lua" />
 	<action uniqueid="3017" script="quests/explorer society/dragon.lua" />
