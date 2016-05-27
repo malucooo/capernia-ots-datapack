@@ -1365,5 +1365,11 @@
 		<mission name="Abodes of Torments: Ferumbras" storageid="54989" startvalue="1" endvalue="1">
 			<missionstate id="1" description="You have already absorbed some of Ferumbras' spirit."/>
 		</mission>
+	</quest>	
+	<quest name="The Explorer Society" startstorageid="90" startstoragevalue="1">
+		<mission name="Join Quest" storageid="90" startvalue="1" endvalue="3">
+			<missionstate id="1" description="Talk to Uzgod to obtain an Dwarven Pickaxe." />
+			<missionstate id="2" description="Fight your way trough Kazoordom Prison and find a Family Brooch to Uzgod." />
+		</mission>		
 	</quest>
 </quests>
