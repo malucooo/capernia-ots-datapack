@@ -3,3 +3,4 @@
 
 # Ignore backup files
 *.bak
+*.new
