@@ -1,3 +1,12 @@
+## 0.1.7 (30/05/2016)
+
+Bugfixes:
+  - fix missing or wrong `items.xml` values that could make client crash. Hive structure, gooey substance, aniversary cake, stairs, adventurer stone, strange growth, insectoid cocoon, hive structure, insectoid hivecomb, dry insectoid hivecomb, insectoid eggs, cracked insectoid eggs, hive gate, cup of molten gold, tarantula trap, trapdoor, rolling pin, peeing orc, fire, destroy field rune, pitch black gap, hole, bog water, star ring, pallet, trunk, leaves, mountain, clay ground, the dead keeper, fire basin, table, dirt floor, rutted stone, jade ornaments, dragon claw lamp, iron case, putrid growth, acid, large black crystal, giant dreadcoil, doomato, witherstem, carnivortex, toxic tulip, clay lump, cursed shoulder spikes and others...
+  - fix missing `data.sql` file [here #33](https://github.com/gordonbay/capernia-ots-datapack/issues/33)
+  - fix `enchantment system` as requested [here #32](https://github.com/gordonbay/capernia-ots-datapack/issues/32)
+  Enhancements:
+  - fix wrong NPC `Yaman, Haroun and Grizzly Adams` coordinates as requested [here #32](https://github.com/gordonbay/capernia-ots-datapack/issues/32)
+
 ## 0.1.6 (27/05/2016)
 
 Bugfixes:
