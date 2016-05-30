@@ -43,9 +43,9 @@ On **Windows**, just extract all contents, change variables on **config.lua** to
 	mysqlPass = "az88231015"
 	mysqlDatabase = "servidor"
 	```
- - Import `base.sql`to your mysql database:
+ - Import `schema.sql`to your mysql database:
 
-    > capernia-ots-datapack\res\data.sql
+    > capernia-ots-datapack\res\schema.sql
     
  - Have fun!
 
