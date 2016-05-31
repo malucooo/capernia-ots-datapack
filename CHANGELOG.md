@@ -7,6 +7,7 @@ Bugfixes:
   
   Enhancements:
   - fix wrong NPC `Yaman, Haroun and Grizzly Adams` coordinates as requested [here #32](https://github.com/gordonbay/capernia-ots-datapack/issues/32)
+
   Additions:
   - `Gesior` php data is now supported by this version
 
