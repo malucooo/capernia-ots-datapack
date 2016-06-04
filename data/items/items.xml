@@ -18071,7 +18071,7 @@
 		<attribute key="weight" value="1100" />
 	</item>
 	<item id="10150" article="a" name="cocktail glass">
-		<attribute key="weight" value="2000" />
+		<attribute key="weight" value="200" />
 		<attribute key="pickupable" value="1" />
 	</item>
 	<item id="10151" article="a" name="golem part">
@@ -18130,6 +18130,7 @@
 		<attribute key="weight" value="320" />
 	</item>
 	<item id="10170" article="an" name="old power core">
+		<attribute key="description" value="This power core has seen better days." />
 		<attribute key="weight" value="780" />
 	</item>
 	<item id="10173" article="a" name="golem head">
@@ -18169,6 +18170,7 @@
 		<attribute key="showattributes" value="1" />
 	</item>
 	<item id="10220" article="a" name="leviathan's amulet">
+		<attribute key="description" value="It holds the last breath of Leviathan." />
 		<attribute key="weight" value="700" />
 		<attribute key="slotType" value="necklace" />
 		<attribute key="charges" value="5" />
@@ -18334,11 +18336,6 @@
 		<attribute key="description" value="This shield will surely care for anyone who can bear it." />
 		<attribute key="weight" value="1700" />
 		<attribute key="defense" value="8" />
-		<attribute key="healthGain" value="10" />
-		<attribute key="healthTicks" value="2000" />
-		<attribute key="manaGain" value="2000" />
-		<attribute key="manaTicks" value="0" />
-		<attribute key="showattributes" value="1" />
 		<attribute key="weaponType" value="shield" />
 	</item>
 	<item id="10298" article="a" name="helmet of ultimate terror">
@@ -18364,7 +18361,7 @@
 		<attribute key="weight" value="3000" />
 		<attribute key="defense" value="6" />
 		<attribute key="attack" value="16" />
-		<attribute key="weaponType" value="club" />
+		<attribute key="weaponType" value="axe" />
 		<attribute key="slotType" value="two-handed" />
 	</item>
 	<item id="10302" article="a" name="club of the fury">
@@ -18394,11 +18391,11 @@
 		<attribute key="weight" value="500" />
 	</item>
 	<item id="10306" name="fan doll of King Tibianus">
-		<attribute key="description" value="The small label reads: For my greatest admirer!" />
+		<attribute key="description" value="The small label reads: For my greatest admirer." />
 		<attribute key="weight" value="650" />
 	</item>
 	<item id="10307" article="a" name="machine crate">
-		<attribute key="description" value="It contains a mysterous machine." />
+		<attribute key="description" value="It contains a mysterious machine." />
 		<attribute key="weight" value="8000" />
 	</item>
 	<item id="10308" article="a" name="fan club membership card">
@@ -18422,14 +18419,14 @@
 		<attribute key="weight" value="500" />
 		<attribute key="decayTo" value="10309" />
 		<attribute key="duration" value="10" />
-		<attribute key="transformDeEquipTo" value="10310" />
+		<attribute key="transformDeEquipTo" value="10315" />
 	</item>
 	<item id="10312" name="claw of 'The Noxious Spawn'">
 		<attribute key="description" value="Its power is depleted at the moment." />
 		<attribute key="weight" value="500" />
 		<attribute key="decayTo" value="10310" />
 		<attribute key="slotType" value="ring" />
-		<attribute key="duration" value="1" />
+		<attribute key="duration" value="86400" />
 	</item>
 	<item id="10313" article="an" name="incredible mumpiz slayer">
 		<attribute key="description" value="This magnificent weapon was forged to slay arch mumpiz demons with a single blow." />
@@ -18447,8 +18444,8 @@
 	<item id="10315" article="a" name="claw of 'The Noxious Spawn'">
 		<attribute key="description" value="Its power is depleted at the moment." />
 		<attribute key="weight" value="500" />
-		<attribute key="decayTo" value="10309" />
-		<attribute key="duration" value="86400" />
+		<attribute key="decayTo" value="10310" />
+		<attribute key="duration" value="10" />
 	</item>
 	<item id="10316" article="a" name="mighty helm of green sparks">
 		<attribute key="description" value="This helmet spawns green stars. Awesome." />
@@ -18803,7 +18800,7 @@
 	<item id="10546" article="a" name="magic wall" />
 	<item id="10547" article="an" name="energy field" />
 	<item id="10548" article="a" name="scarab pincers" plural="scarab pincers">
-		<attribute key="weight" value="280" />
+		<attribute key="weight" value="230" />
 	</item>
 	<item id="10549" article="an" name="ancient stone">
 		<attribute key="weight" value="160" />
@@ -18818,7 +18815,7 @@
 		<attribute key="weight" value="110" />
 	</item>
 	<item id="10553" article="a" name="fiery heart">
-		<attribute key="weight" value="120" />
+		<attribute key="weight" value="115" />
 	</item>
 	<item id="10554" article="a" name="hellhound slobber">
 		<attribute key="weight" value="75" />
@@ -18911,7 +18908,7 @@
 		<attribute key="weight" value="180" />
 	</item>
 	<item id="10583" article="a" name="sea serpent scale">
-		<attribute key="weight" value="150" />
+		<attribute key="weight" value="146" />
 	</item>
 	<item id="10584" article="a" name="boggy dreads" plural="boggy's dreads">
 		<attribute key="weight" value="169" />
@@ -18931,10 +18928,10 @@
 		<attribute key="weight" value="50" />
 	</item>
 	<item id="10603" article="a" name="swamp grass" plural="swamp grass">
-		<attribute key="weight" value="169" />
+		<attribute key="weight" value="94" />
 	</item>
 	<item id="10605" article="a" name="bundle of cursed straw" plural="bundles of cursed straw">
-		<attribute key="weight" value="169" />
+		<attribute key="weight" value="227" />
 	</item>
 	<item id="10606" article="a" name="bunch of troll hair" plural="bunches of troll hair">
 		<attribute key="weight" value="85" />
@@ -18953,6 +18950,11 @@
 	</item>
 	<item id="10611" article="a" name="snake skin">
 		<attribute key="weight" value="100" />
+	</item>
+	<item id="10612" article="a" name="slain ice golem">
+		<attribute key="decayTo" value="7283" />
+		<attribute key="duration" value="10" />
+		<attribute key="corpseType" value="undead" />
 	</item>
 	<item id="10613" name="plans for a strange device">
 		<attribute key="description" value="You should bring them to Spectulus in Edron." />
@@ -18977,15 +18979,9 @@
 	<item fromid="10709" toid="10710" article="a" name="serpent's statue" />
 	<item fromid="10711" toid="10712" article="a" name="dragon statue" />
 	<item fromid="10713" toid="10718" name="serpent decoration" />
-	<item id="10719" article="a" name="friendship amulet">
-		<attribute key="description" value="It shines as beautifully as a good friendship." />
+	<item fromid="10719" toid="10720" name="friendship amulet">
+		<attribute key="description" value="It shines as beautifully as a good friendship. This amulet was rewarded by Tibiafriends." />
 		<attribute key="weight" value="520" />
-	</item>
-	<item id="10720" article="a" name="friendship amulet">
-		<attribute key="description" value="It shines as beautifully as a good friendship." />
-		<attribute key="weight" value="520" />
-		<attribute key="decayTo" value="10719" />
-		<attribute key="duration" value="2" />
 	</item>
 	<item id="10721" name="zaoan decoration" />
 	<item fromid="10722" toid="10723" name="skull decoration" />
@@ -19270,7 +19266,7 @@
 		<attribute key="absorbPercentIce" value="3" />
 		<attribute key="absorbPercentEnergy" value="-3" />
 		<attribute key="slotType" value="feet" />
-		<attribute key="weight" value="2250" />
+		<attribute key="weight" value="1850" />
 	</item>
 	<item id="11118" name="dragon scale boots">
 		<attribute key="armor" value="3" />
@@ -19297,7 +19293,7 @@
 		<attribute key="description" value="Someone seems to have had a lot of fun decorating it." />
 	</item>
 	<item id="11126" article="a" name="lizard weapon rack kit">
-		<attribute key="description" value="Use it in your house to construct a lizard weapon rack." />
+		<attribute key="description" value="Use it in your house to construct lizard weapon rack." />
 		<attribute key="weight" value="5500" />
 	</item>
 	<item id="11127" article="a" name="lizard weapon rack">
@@ -19368,7 +19364,8 @@
 	</item>
 	<item fromid="11162" toid="11163" name="fish" />
 	<item id="11164" article="a" name="weapons crate">
-		<attribute key="weight" value="7500" />
+		<attribute key="description" value="This crate contains a set of weapons." />
+		<attribute key="weight" value="8000" />
 	</item>
 	<item fromid="11165" toid="11188" name="sand" />
 	<item id="11189" name="crab pincers" plural="crab pincers">
@@ -19416,11 +19413,11 @@
 		<attribute key="rotateTo" value="11203" />
 	</item>
 	<item id="11205" article="a" name="dragon throne kit">
-		<attribute key="description" value="It is a kit for a dragon throne." />
-		<attribute key="weight" value="2500" />
+		<attribute key="description" value="Use it in your house to construct a dragon throne." />
+		<attribute key="weight" value="7500" />
 	</item>
 	<item id="11206" article="a" name="red lantern">
-		<attribute key="weight" value="116" />
+		<attribute key="weight" value="300" />
 	</item>
 	<item id="11207" article="a" name="mini mummy">
 		<attribute key="weight" value="450" />
@@ -19544,12 +19541,12 @@
 		<attribute key="slotType" value="backpack" />
 	</item>
 	<item id="11244" article="a" name="minotaur backpack">
-		<attribute key="weight" value="1800" />
+		<attribute key="weight" value="1850" />
 		<attribute key="containerSize" value="20" />
 		<attribute key="slotType" value="backpack" />
 	</item>
 	<item id="11245" article="a" name="bunch of ripe rice" plural="bunches of ripe rice">
-		<attribute key="weight" value="20" />
+		<attribute key="weight" value="750" />
 	</item>
 	<item id="11246" article="a" name="rice ball">
 		<attribute key="weight" value="30" />
@@ -19803,7 +19800,7 @@
 		<attribute key="weaponType" value="axe" />
 		<attribute key="slotType" value="two-handed" />
 	</item>
-	<item id="11306" article="a" name="sais">
+	<item id="11306" article="a" name="sai">
 		<attribute key="weight" value="5000" />
 		<attribute key="defense" value="27" />
 		<attribute key="attack" value="45" />
@@ -19812,8 +19809,8 @@
 	</item>
 	<item id="11307" article="a" name="Zaoan sword">
 		<attribute key="weight" value="4900" />
-		<attribute key="defense" value="25" />
-		<attribute key="attack" value="46" />
+		<attribute key="defense" value="18" />
+		<attribute key="attack" value="43" />
 		<attribute key="weaponType" value="sword" />
 		<attribute key="extradef" value="2" />
 	</item>
