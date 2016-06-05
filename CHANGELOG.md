@@ -1,3 +1,11 @@
+## 0.1.8 (04/06/2016)
+
+Bugfixes:
+  - fix wrong items values at `items.xml`
+  - fix wrong textures and missing boat at `33358, 31588, 12` `33356, 31589, 11` `33365, 31612, 11` `33677, 31598, 7`
+  - fix `Renegade Knight` drops and stats
+
+
 ## 0.1.7 (30/05/2016)
 
 Bugfixes:
