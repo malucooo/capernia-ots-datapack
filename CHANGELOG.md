@@ -1,3 +1,9 @@
+## 0.1.9 (07/06/2016)
+
+Bugfixes:
+  - fix problems with `weapons.xml` file as requested [here #40](https://github.com/gordonbay/capernia-ots-datapack/issues/40)
+
+
 ## 0.1.8 (04/06/2016)
 
 Bugfixes:
