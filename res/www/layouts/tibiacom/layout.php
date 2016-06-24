@@ -151,7 +151,7 @@ function showSpoiler(obj)
     <div class="LeftChain" style="background-image:url(./layouts/tibiacom/images/general/chain.gif);"></div>
     <div id="ActiveSubmenuItemIcon_bug" class="ActiveSubmenuItemIcon"></div>
   <img class="SocialLinkupLogo" src="./layouts/tibiacom/images/mini_face.png">
-    <div class="SubmenuitemLabel"><font style="center">Facebook Oficial</font></div>
+    <div class="SubmenuitemLabel"><font style="center">Official Facebook</font></div>
     <div class="RightChain" style="background-image:url(./layouts/tibiacom/images/general/chain.gif);"></div>
   </div>
 </a>
