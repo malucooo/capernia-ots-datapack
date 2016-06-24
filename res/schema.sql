@@ -12202,6 +12202,20 @@ CREATE TABLE `z_shop_offer` (
   `offer_name` varchar(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `announcements`
+--
+CREATE TABLE IF NOT EXISTS `announcements` (
+  `id` int(10) NOT NULL AUTO_INCREMENT,
+  `title` varchar(50) NOT NULL,
+  `text` varchar(255) NOT NULL,
+  `date` varchar(20) NOT NULL,
+  `author` varchar(50) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
+
 --
 -- Dumping data for table `z_shop_offer`
 --
