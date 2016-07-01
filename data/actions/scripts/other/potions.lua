@@ -35,8 +35,7 @@ antidote:setParameter(COMBAT_PARAM_AGGRESSIVE, false)
 antidote:setParameter(COMBAT_PARAM_DISPEL, CONDITION_POISON)
 
 local exhaust = Condition(CONDITION_EXHAUST_HEAL)
-exhaust:setParameter(CONDITION_PARAM_TICKS, (configManager.getNumber(configKeys.EX_ACTIONS_DELAY_INTERVAL) - 100))
--- 1000 - 100 due to exact condition timing. -100 doesn't hurt us, and players don't have reminding ~50ms exhaustion.
+exhaust:setParameter(CONDITION_PARAM_TICKS, 100)
 
 function onUse(player, item, fromPosition, target, toPosition, isHotkey)
 	local potion = config[item.itemid]
