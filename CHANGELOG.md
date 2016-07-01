@@ -1,3 +1,8 @@
+## 0.2.0 (01/07/2016)
+
+Bugfixes:
+  - fix `potions.lua` exhaust time as requested [here #44](https://github.com/gordonbay/capernia-ots-datapack/issues/44)
+
 ## 0.1.9 (07/06/2016)
 
 Bugfixes:
