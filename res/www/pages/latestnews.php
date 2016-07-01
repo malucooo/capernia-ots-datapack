@@ -10,7 +10,7 @@ date_default_timezone_set('America/Sao_Paulo');
             <table border="0">
                 <tr>
                     <td style="text-align: center; font-weight: bold;">
-                        <font color="white">Most powerfull guilds</font>
+                        <font color="white">Most powerful guilds</font>
                     </td>
                 </tr>
             </table>
